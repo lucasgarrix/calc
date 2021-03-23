@@ -1,0 +1,8 @@
+language: python
+python:
+  - "3.7"
+script:
+  - pytest teste.py
+notifications:
+  email: lucashacking123@hotmail.com
+  email: ufrapl21@gmail.com
