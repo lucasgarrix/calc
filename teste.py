@@ -10,5 +10,4 @@ def teste_subtrair():
 def teste_multiplicar():
     assert multiplicar(2,4) == 8
 def teste_dividir():
-    assert dividir(4,2) == 2
-
+    assert dividir(8,2) == 4
